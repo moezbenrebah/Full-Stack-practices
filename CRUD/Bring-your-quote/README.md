@@ -3,7 +3,7 @@
 
 ### Screenshot:
 
-![](https://imgur.com/gallery/0tkMKCP.png)
+![](https://i.imgur.com/6X1ieTk.png)
 
 
 ### Project Purpose:
