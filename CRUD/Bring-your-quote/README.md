@@ -5,6 +5,7 @@
 
 ![](https://i.imgur.com/6X1ieTk.png)
 
+<br /><br /><br /><br />
 
 ### Learning objective:
 
@@ -16,6 +17,7 @@
 - How using mongoose to connect MongoDB with back-end
 - How use engine templates like PUG here, in order to generate front-end side
 
+<br />
 
 ### The purpose of the project:
 
