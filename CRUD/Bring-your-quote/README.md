@@ -6,7 +6,7 @@
 ![](https://i.imgur.com/6X1ieTk.png)
 
 
-### Project Purpose:
+### Learning objective:
 
 - How create a simple CRUD web app
 - How create simple end points APIs with Express.js
@@ -15,3 +15,12 @@
 - How connect a simple Back-end with databases (MySQL, MongoDB)
 - How using mongoose to connect MongoDB with back-end
 - How use engine templates like PUG here, in order to generate front-end side
+
+
+### The purpose of the project:
+
+- Accept user input (quote + author)
+- Store data in the databasse (MongoDB and MySql)
+- Reterieving quotes as json data from the database using api
+
+
