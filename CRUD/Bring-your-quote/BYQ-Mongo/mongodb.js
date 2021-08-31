@@ -15,10 +15,6 @@ app.get('/', (req, res) => {
     res.render('index')
 });
 
-app.get('/', (req, res) => {
-    res.render('index')
-})
-
 app.post('/quotes', (req, res) => {
     const item = {
         author: req.body.name,
